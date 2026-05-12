@@ -14,6 +14,8 @@ Cette démonstration présente :
 - le compteur reste intact après rotation
 - le compteur reste conservé après changement de thème
 - le compteur est réinitialisé après destruction complète du processus
+🎥 [Vidéo 1](demo/tests_viewmodel.mp4)
+
 
 ---
 
@@ -27,6 +29,7 @@ Cette démonstration présente :
 ### Résultats observés
 
 - les données sont toujours modifiées dans le ViewModel
+🎥 [Vidéo 2](demo/test_sans_livedata.mp4)
 - l’interface utilisateur ne se met plus à jour automatiquement
 
 ### Conclusion
